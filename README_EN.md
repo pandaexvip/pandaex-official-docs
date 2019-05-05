@@ -771,6 +771,6 @@ Withdraw to your wallet address.
 
 
     
-[PandaEX]: https://www.PandaEX.com 
-[简体中文版文档]: https://github.com/PandaEX/PandaEX-official-api-docs/blob/master/README.md
+[PandaEX]: https://www.pandaex.pro 
+[简体中文版文档]: https://github.com/pandaexvip/pandaex-official-docs/blob/master/README.md
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
