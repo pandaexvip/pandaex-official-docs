@@ -786,6 +786,6 @@ PandaEX提供限价和市价两种订单类型。
 |address|String|是|提现地址|
   
 
-[PandaEX]: https://www.PandaEX.com 
-[English Docs]: https://github.com/PandaEX/PandaEX-official-api-docs/blob/master/README_EN.md
+[PandaEX]: https://www.pandaex.pro/ 
+[English Docs]: https://github.com/PandaEXvip/PandaEX-official-api-docs/blob/master/README_EN.md
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
